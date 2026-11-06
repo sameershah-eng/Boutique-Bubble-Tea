@@ -1,0 +1,6 @@
+{
+  "name": "HYDOR | Boutique Bubble Tea • Commercial St, London",
+  "description": "Boutique bubble tea store at 70 Commercial St, London E1 6LT. Hand-shaken teas, fresh tapioca pearls every 4 hours, and bespoke drinks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
